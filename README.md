@@ -20,5 +20,15 @@ We are Proud that we have successfully Created a Prototype, the Website is almos
 ## What we learned
 We have Learned about how to tackle the Problems, Brainstorm and discuss them, and use Hit and Trial method as much as possible, because Failures ae a step closer to success.
 
-## What's next for Med-Port
+## What's next for Med-Port:
 In Future We are Planning to add More Features like Emergency Contact Services, etc. We are also planning to launch an Mobile application for the Software, for more use of convenience. We are also planning to add more features like ordering medicine through the software and ordering tests, etc.
+
+##Motive In Short Term:
+This will be the Aadhar for Health, where everyone will get Unique Health ID(UHID) and this can be verified as a Legal Document.
+All of the USers Medical data can be Uploaded to the user's profile by the Hospitals or healthcare centre like CT Scans, MRI's, etc  through the Software by entering the UHID.
+Reports can be Accessed From anywhere and anytime.
+No need to carry Physical Reports Everywhere You Go.
+User's Medications, their Health Conditions, their Previous Check-ups Reports, everything can be Seen through the software.
+Doctors can access the Reports of a Particular Patient through Th UHID on their Computers.
+Patients can take appointments, book Services, Book Vaccinations, order medicines and Order Blook Test etc. Through the software from the comfort if their home.
+The task of carrying physical reports will be ended if this is implemented.
